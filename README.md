@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Angel
-- 👀 I’m interested in ...
+- 👀 I’m interested in traveling thw world
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Projects
+- 💞️ I’m looking to collaborate on Projects and Research
 - 📫 How to reach me angelc22c@gmail.com
