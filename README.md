@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Angel
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on Projects
+- 📫 How to reach me angelc22c@gmail.com
